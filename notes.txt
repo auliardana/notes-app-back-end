@@ -1,0 +1,21 @@
+alur pembuatan : 
+
+-membuat 4 file js agar lebih rapi
+-menggunakan module HAPI
+-menggunakan nodemon untuk memudahkan run server
+1. membuat routes
+2. membuat handler
+3. mengimpor handler ke routes lalu mengisi handler pada routes dengan nama fungsi handler
+
+
+
+
+
+
+
+
+penting:
+Catatan: Jika aplikasi Notes Apps masih mengalami kendala same-origin, hal itu mungkin disebabkan 
+oleh ketentuan keamanan baru yang ditetapkan oleh Google Chrome. Solusinya, coba ketikkan chrome://flags pada address bar, lalu cari 
+Block insecure private network requests, ubah nilainya dari default 
+menjadi menjadi disable. Setelah men-disable, silakan restart browser dan coba kembali Notes Apps Client-nya ya.
